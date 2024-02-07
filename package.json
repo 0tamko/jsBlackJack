@@ -1,0 +1,12 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Normalne black jack hra co ta porobi o penezi",
+  "main": "card.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matko",
+  "license": "ISC"
+}

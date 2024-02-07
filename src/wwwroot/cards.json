@@ -1,0 +1,314 @@
+[
+    {
+        "value": 2,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "2"
+    },
+    {
+        "value": 3,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "3"
+    },
+    {
+        "value": 4,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "4"
+    },
+    {
+        "value": 5,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "5"
+    },
+    {
+        "value": 6,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "6"
+    },
+    {
+        "value": 7,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "7"
+    },
+    {
+        "value": 8,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "8"
+    },
+    {
+        "value": 9,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "9"
+    },
+    {
+        "value": 10,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "10"
+    },
+    {
+        "value": 11,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "Jack"
+    },
+    {
+        "value": 12,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "Queen"
+    },
+    {
+        "value": 13,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "King"
+    },
+    {
+        "value": 14,
+        "color": "Black",
+        "symbol": "♣",
+        "pip": "Ace"
+    },
+    {
+        "value": 2,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "2"
+    },
+    {
+        "value": 3,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "3"
+    },
+    {
+        "value": 4,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "4"
+    },
+    {
+        "value": 5,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "5"
+    },
+    {
+        "value": 6,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "6"
+    },
+    {
+        "value": 7,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "7"
+    },
+    {
+        "value": 8,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "8"
+    },
+    {
+        "value": 9,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "9"
+    },
+    {
+        "value": 10,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "10"
+    },
+    {
+        "value": 11,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "Jack"
+    },
+    {
+        "value": 12,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "Queen"
+    },
+    {
+        "value": 13,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "King"
+    },
+    {
+        "value": 14,
+        "color": "Black",
+        "symbol": "♠",
+        "pip": "Ace"
+    },
+    {
+        "value": 2,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "2"
+    },
+    {
+        "value": 3,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "3"
+    },
+    {
+        "value": 4,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "4"
+    },
+    {
+        "value": 5,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "5"
+    },
+    {
+        "value": 6,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "6"
+    },
+    {
+        "value": 7,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "7"
+    },
+    {
+        "value": 8,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "8"
+    },
+    {
+        "value": 9,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "9"
+    },
+    {
+        "value": 10,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "10"
+    },
+    {
+        "value": 11,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "Jack"
+    },
+    {
+        "value": 12,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "Queen"
+    },
+    {
+        "value": 13,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "King"
+    },
+    {
+        "value": 14,
+        "color": "Red",
+        "symbol": "♦",
+        "pip": "Ace"
+    },
+    {
+        "value": 2,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "2"
+    },
+    {
+        "value": 3,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "3"
+    },
+    {
+        "value": 4,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "4"
+    },
+    {
+        "value": 5,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "5"
+    },
+    {
+        "value": 6,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "6"
+    },
+    {
+        "value": 7,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "7"
+    },
+    {
+        "value": 8,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "8"
+    },
+    {
+        "value": 9,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "9"
+    },
+    {
+        "value": 10,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "10"
+    },
+    {
+        "value": 11,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "Jack"
+    },
+    {
+        "value": 12,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "Queen"
+    },
+    {
+        "value": 13,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "King"
+    },
+    {
+        "value": 14,
+        "color": "Red",
+        "symbol": "♥",
+        "pip": "Ace"
+    }
+]
